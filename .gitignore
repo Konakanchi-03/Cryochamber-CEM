@@ -1,0 +1,25 @@
+## Visual Studio & .NET build artifacts
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+
+## PicoGK output / logs
+output/
+exports/
+*.log
+*.tmp
+*.stl
+*.vdb
+*.3mf
+
+## OS generated files
+.DS_Store
+Thumbs.db
+*.ini
